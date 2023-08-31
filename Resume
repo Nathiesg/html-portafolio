@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <Title>Nathalie</Title>
+    </head>
+    <body>
+        <h1>Nathalie Salazar</h1>
+        <img src="./Nathaliephoto.jpeg" height="200" alt="Nathalie's photo" />
+        <h2>Summary</h2>
+        <p>
+            I am a continuos learner, always looking for opportunities to grow and develop. I like innovation and technological culture. I am passionate about genealogical research, where I have developed data search, analysis and correla(on skills in the construc(on of cases. I recently began my Family History Research educa(onal program at Bigham Young University Idaho. I also have social media experience as a Content Reviewer, Customer Service Representa(ve, and Inves(gator, providing support and resolving reports under SLAs, through email and app interac(ons. Management of MicrosoH Office Packages, Outlook and Google Tools.
+        </p>
+        <hr/>
+        <h2>Education</h2>
+        <ul>
+            <li>Family History Research, BYU Idaho.</li>
+            <li>Bachelors in Bussines Administration, Instituto Universitario de Tecnologia Dr. Cristobal Mendoza</li>
+        </ul>
+        <hr/>
+        <h2>Work Experience</h2>
+        <ul>
+            <li>Content Reviwer - Accenture Portugal</li>
+            Mayo 2022-Currently
+                <ul>
+                    <li>Helping improve the quality and safety of online content.</li>
+                    <li>Analyzing and reviewing user profiles, audio, videos, and text-based content and/or inves(ga(ng, escala(ng and/or resolving issues that are reported by users or flagged by the system.</li>
+                    <li>Participate in process improvement ini(a(ves that improve quality and efficiency of work.</li>
+                    <li>Deliver value to our clients, while making a larger impact on society.</li>
+                </ul><br/>
+            <li>QA Analyst & Fraud Analyst - Omni Costa Rica</li>
+            Junio 2020-Septiembre 2021
+                <ul>
+                    <li>Analyzed and Audited mobility cases and money transac(ons</li>
+                    <li>Worked crea(ng a QA reviewing process </li>
+                    <li>Prevented fraudulent and illicit behavior. Execu(ng inves(ga(ons and reviews of accounts, trips, buys and iden((es in the App</li>
+                </ul> <br/>
+            <li>Investigator / Customer Service Representative - Uber Technologies COE Costa Rica</li>
+            October 2018-May 2020
+                <ul>
+                    <li>Provided support and resolved cases of Urgent and Security Incidents through emails, phone calls and Uber App messages through specialized tools under SLAs</li>
+                    <li>Management of Sensi(ve and Legal Informa(on.</li>
+                    <li>Worked a pilot with the LERT Department, providing informa(on on
+                        incident cases that were required by them.</li>
+                </ul>
+        </ul>
+        <hr/>
+        <h2>Skills</h2>
+            <ul>
+                <li>Detail oriented, organized and with good priorization skills.</li> 
+                <li>Problem Solving Skills and critical thinking.</li>
+                <li>Strong knowledge of social media plaPorms (Meta)</li>
+                <li>Excellent team working and communicacion skills.</li>
+                <li>Strong resilience and coping skills.</li>
+                <li>Proactive, motivated and strong work ethic.</li>
+                <li>Spanish Native Speaker. Portuguese B2. English C1</li>
+            </ul>
+        <hr/>
+        <h2>Other</h2>
+        <ul>
+            <li><a href="./Hobbies" >My Hobbies</a></li>
+            <li><a href="./Contact me" >Contact me</a></li>
+        </ul>
+    </body>
+</html>

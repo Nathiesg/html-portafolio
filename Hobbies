@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <Title>Nathalie</Title>
+    </head>
+    <h1>Something About me</h1>
+    <body>
+        <p>I am a pet person. I love animals and my babies are one the most important things in my life.</p>
+        <img src="./Spike.jpeg" height="200" alt="Beautiful dog"/> <img src="./Gol y Chelsea.jpeg" height="200" alt="beautiful dog"/>
+        <p>Spike, Gol y Chelsea</p>
+        <hr/>
+        <p>Another thing that I really enjoy is the nature and to know historical places. I'm currently living in Lisbon and this is a great place for that.</p>
+        <img src="./Catedral.jpeg" height="200" alt="Cathedral in Lisbon" /> <img src="./monumento conquistadores.jpeg" height="200" alt="Conquers Monument" />
+        <p>Lisbon's Cathedral and Conquers monument </p>
+        <img src="./torre de belen.jpeg" height="200" alt="Belem Tower" />
+        <p>Belem Tower</p>
+        <hr/>
+        <p>Adventure is one thing that could describe me very well. I love adventure. My recent adventure was few weeks ago in Algarve Portugal, SKYDiving. Let me show you a bit of that AMAZING experience</p>
+        <img src="./skydiving3.jpeg" height="200" alt="Skyding" /> <img src="./skydiving1.jpeg" height="200" alt="Skyding" /> <img src="./skydiving2.jpeg" height="200" alt="Skyding" />
+    </body>
+</html>
